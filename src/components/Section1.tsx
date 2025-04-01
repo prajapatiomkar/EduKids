@@ -59,7 +59,7 @@ export default function Section1() {
           <div className="w-10 h-10 bg-white text-black flex items-center justify-center rounded-bl-xl rounded-tr-xl ">
             logo
           </div>
-          <div className="">
+          <div className="ml-3">
             <div className=" text-4xl">70+</div>
             <div className="my-2">
               Avaliable field workspaces and increasing
